@@ -1,4 +1,4 @@
-apiVesriom: v1
+apiVesrion: v1
 kind: Namespace
 metadata: 
   name: pavi18-ns
