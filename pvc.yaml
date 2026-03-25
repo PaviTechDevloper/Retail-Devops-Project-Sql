@@ -4,6 +4,7 @@ metadata:
   name: retail-pvc
   namespace: pavi18-ns
 spec:
+  storageClassName: nfs-retail
   accessModes:
     - ReadWriteOnce
   resources:
